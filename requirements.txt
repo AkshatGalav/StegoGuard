@@ -1,0 +1,20 @@
+# StegoGuard Complete Requirements
+fastapi
+uvicorn
+python-multipart
+streamlit
+numpy
+pandas
+pillow
+opencv-python
+scikit-image
+scikit-learn
+cryptography
+pycryptodome
+joblib
+matplotlib
+plotly
+pymongo
+mongomock
+python-dotenv
+pytest
